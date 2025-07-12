@@ -86,3 +86,26 @@ The dataset contains **20,765 entries and 22 features**, including:
    - Some hosts manage **multiple listings**, indicating a trend toward professional hosting.
 
 ---
+
+## Recommendations
+- **For Guests**: 
+   - Look for listings with high availability and good reviews for a better experience.
+   - **Private rooms** in Brooklyn offer affordable stays compared to Manhattan.
+
+- **For Hosts**:  
+   - Improve **availability** and **review response rates** to attract more bookings.
+   - Manage pricing effectively to compete within the borough's market.
+
+---
+
+## Future Work
+- Use **machine learning** to predict prices based on room type and location.
+- Perform **sentiment analysis** on reviews to better understand guest experiences.
+- Create an **interactive dashboard** using Plotly or Tableau for live monitoring.
+
+---
+
+## Conclusion
+This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
+
+---
